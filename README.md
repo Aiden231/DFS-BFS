@@ -1,2 +1,2 @@
 # DFS & BFS
-![](./reusult.png)
+![](./result.png)
