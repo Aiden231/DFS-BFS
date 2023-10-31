@@ -26,7 +26,7 @@ void insert_vertex(GraphType* g, int n)
 		fprintf(stderr, "그래프 : 정점의 개수 초과 오류\n");
 		return;
 	}
-	g->n++;
+	g->n++; // 오류 있음 해결해야됨 
 }
 
 void insert_edge(GraphType* g, int u,int v)
